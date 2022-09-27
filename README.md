@@ -11,3 +11,6 @@ Please send me any feedback you want. This can help me to fix bugs and make bett
 This App is totally Free. I created it for personal purposes and decided to share it with the community.
 I created this app in my free time, and I don’t have much, like most people, so I can’t give support or warranty the App will work like expected in your environment. Just trying to make my part in the world.
 You are not required to use this. If you want to test it, I hope it can be useful.
+
+Download the Latest Release
+https://github.com/sibranda/GetIntuneAssignments/releases/tag/v.1.4a
