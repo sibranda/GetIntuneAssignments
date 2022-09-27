@@ -12,5 +12,10 @@ This App is totally Free. I created it for personal purposes and decided to shar
 I created this app in my free time, and I don’t have much, like most people, so I can’t give support or warranty the App will work like expected in your environment. Just trying to make my part in the world.
 You are not required to use this. If you want to test it, I hope it can be useful.
 
+
+<img width="875" alt="image" src="https://user-images.githubusercontent.com/62342144/192555854-3c2fb441-d05a-4a53-81e3-5592b3c6c98b.png">
+
+
 Download the Latest Release
 https://github.com/sibranda/GetIntuneAssignments/releases/tag/v.1.4a
+
