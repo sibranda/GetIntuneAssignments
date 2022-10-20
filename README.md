@@ -1,6 +1,6 @@
 **About**
 
-Get Intune Assignments is a C#.NET program developed for Intune to query MS Graph Information.
+GIA - Get Intune Assignments is a C#.NET program developed for Intune to query MS Graph Information.
 This App intends to retrieve all Intune Items Assignments.
 The focus is to retrieve Assignments Items target an Azure AD Group.
 You also can export the data to CSV file if you wish.
