@@ -13,6 +13,7 @@ I created this app in my free time, and I don’t have much, like most people, s
 You are not required to use this. If you want to test it, I hope it can be useful.
 
 **Requirements**
+
 An User account with access to Intune and Azure Resources:
 Users must have access to read All Intune Items and query for Azure AD Groups.
 
