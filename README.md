@@ -17,15 +17,24 @@ You are not required to use this. If you want to test it, I hope it can be usefu
 An User account with access to Intune and Azure Resources:
 Users must have access to read All Intune Items and query for Azure AD Groups.
 
-To use this app you need to:
+To use this app you need to: 
+
 Create/Register an Azure App to Get Intune Assignments get data from the environment.
+
 Follow the Read Rights the User and the Azure App may need:
+
 Directory.Read.All
+
 DeviceManagementApps.Read.All
+
 DeviceManagementConfiguration.Read.All
+
 Group.Read.All
+
 GroupMember.Read.All
+
 Policy.Read.All
+
 User.Read.Al
 
 **Screen Shot**
