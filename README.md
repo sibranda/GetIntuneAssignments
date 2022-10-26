@@ -26,7 +26,7 @@ GroupMember.Read.All\
 Policy.Read.All\
 User.Read.Al
 
-<strong>**Screen Shot**</strong>
+<strong>**Screen Shot**</strong>/
 <img width="875" alt="image" src="https://user-images.githubusercontent.com/62342144/192555854-3c2fb441-d05a-4a53-81e3-5592b3c6c98b.png">
 
 
