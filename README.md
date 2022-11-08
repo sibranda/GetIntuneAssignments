@@ -12,7 +12,7 @@ You are not required to use this. If you want to test it, I hope it can be usefu
 
 <strong>**Requirements**</strong>\
 An User account with access to Intune and Azure Resources:\
-Users must have access to read All Intune Items and query for Azure AD Groups.\
+Users must have access to read All Intune Items and query for Azure AD Groups.
 
 To use this app you need to:\
 Create/Register an Azure App to Get Intune Assignments get data from the environment.\
@@ -27,9 +27,9 @@ Policy.Read.All\
 User.Read.Al
 
 <strong>**Screen Shot**</strong>\
-<img width="875" alt="image" src="https://user-images.githubusercontent.com/62342144/192555854-3c2fb441-d05a-4a53-81e3-5592b3c6c98b.png">
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/62342144/200652267-e839b1bb-cdd0-4a7e-91b1-41a5789c6698.png">
 
 
 Download the Latest Release
-https://github.com/sibranda/GetIntuneAssignments/releases/tag/v.1.4a
+https://github.com/sibranda/GetIntuneAssignments/releases/tag/v1.5
 
