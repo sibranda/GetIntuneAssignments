@@ -1,16 +1,24 @@
 <strong>**About**</strong>\
+
 GIA - Get Intune Assignments is a C#.NET program developed for Intune to query MS Graph Information.
+
 This App intends to retrieve all Intune Items Assignments.
 The focus is to retrieve Assignments Items target an Azure AD Group.
-You also can export the data to CSV file if you wish.
+You can export the data to CSV file if you wish.
+
 Please send me any feedback you want. This can help me to fix bugs and make better solutions to help everyone.
 
 <strong>**Copyrights Warranty and Support**</strong>\
+
 This App is totally Free. I created it for personal purposes and decided to share it with the community.
-I created this app in my free time, and I don’t have much, like most people, so I can’t give support or warranty the App will work like expected in your environment. Just trying to make my part in the world.
-You are not required to use this. If you want to test it, I hope it can be useful.
+I created this app in my free time, and I don’t have much, like most people, so I can’t give support or warranty that the App will work like expected in your environment.
+
+I'm Just trying to make my part in the world.
+You are not required to use this.
+If you want to test it, I hope it can be useful.
 
 <strong>**Requirements**</strong>\
+
 An User account with access to Intune and Azure Resources:\
 Users must have access to read All Intune Items and query for Azure AD Groups.
 
@@ -21,15 +29,15 @@ Follow the Read Rights the User and the Azure App may need:
 Directory.Read.All\
 DeviceManagementApps.Read.All\
 DeviceManagementConfiguration.Read.All\
+DeviceManagementServiceConfig.Read.All\
 Group.Read.All\
 GroupMember.Read.All\
 Policy.Read.All\
 User.Read.Al
 
 <strong>**Screen Shot**</strong>\
-<img width="754" alt="image" src="https://user-images.githubusercontent.com/62342144/200652267-e839b1bb-cdd0-4a7e-91b1-41a5789c6698.png">
+<img width="700" alt="GitHubScreenShot2 0" src="https://user-images.githubusercontent.com/62342144/232511609-36046c1e-08db-4003-84bc-2a85fea29fb5.png">
 
-
-Download the Latest Release
-https://github.com/sibranda/GetIntuneAssignments/releases/tag/v1.5
+Download the Latest Release 2.0
+https://github.com/sibranda/GetIntuneAssignments/releases/tag/v2.0
 
