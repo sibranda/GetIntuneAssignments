@@ -37,6 +37,7 @@ Policy.Read.All\
 User.Read.Al
 
 <strong>**Screen Shot**</strong>
+<b>
 <img width="700" alt="GIA2 1-Screen" src="https://github.com/sibranda/GetIntuneAssignments/assets/62342144/5b4fe8d9-4073-4e00-ab9b-a7c7a00c9c21">
 
 Download the Latest Release 2.1
