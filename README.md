@@ -29,6 +29,7 @@ Follow the Read Rights the User and the Azure App may need:
 Directory.Read.All\
 DeviceManagementApps.Read.All\
 DeviceManagementConfiguration.Read.All\
+DeviceManagementManagedDevices.Read.All\
 DeviceManagementServiceConfig.Read.All\
 Group.Read.All\
 GroupMember.Read.All\
@@ -36,8 +37,8 @@ Policy.Read.All\
 User.Read.Al
 
 <strong>**Screen Shot**</strong>
-<img width="700" alt="GitHubScreenShot2 0" src="https://user-images.githubusercontent.com/62342144/232511609-36046c1e-08db-4003-84bc-2a85fea29fb5.png">
+<img width="700" alt="GIA2 1-Screen" src="https://github.com/sibranda/GetIntuneAssignments/assets/62342144/5b4fe8d9-4073-4e00-ab9b-a7c7a00c9c21">
 
 Download the Latest Release 2.0
-https://github.com/sibranda/GetIntuneAssignments/releases/tag/v2.0
+https://github.com/sibranda/GetIntuneAssignments/releases/tag/v2.1
 
