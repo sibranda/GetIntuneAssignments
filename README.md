@@ -38,8 +38,7 @@ User.Read.Al
 
 <strong>**Screen Shot**</strong><p>
 
-![image001](https://github.com/sibranda/GetIntuneAssignments/assets/62342144/31b06f71-eb0b-4e25-8a5b-4986aab87b0a)
-
+<img width="700" alt="GIA2 1-Screen" src="https://github.com/sibranda/GetIntuneAssignments/assets/62342144/31b06f71-eb0b-4e25-8a5b-4986aab87b0a">
 
 Download the Latest Release 2.1
 https://github.com/sibranda/GetIntuneAssignments/releases/tag/v2.1
