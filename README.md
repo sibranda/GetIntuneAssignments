@@ -1,5 +1,6 @@
 ### **About**
-Get Intune Assignments is a C#.NET free app built for Intune that queries Intune and Entra ID via MS Graph.
+GIA is a C#.NET free app built for Intune that queries Intune and Entra ID via MS Graph.
+Which has already reached more than 1,400 downloads!
 This app aims to retrieve all active Intune item assignments.
 The focus is to retrieve Assignments, so if you have an item (policy, settings, app) but it does not have an assignment, 
 GIA will not report it.
@@ -17,44 +18,24 @@ think the app is malicious. Like I said: you have no obligation to use the app. 
 be helpful to you and/or your clients.
 And feel free to send me feedback as it helps everyone.
 
-### **What's New on GIA 3.0 - April 04, 2024**
+### **What's New on GIA 3.1 - June 18, 2024**
 
-Added new themes including color-blind high contrast.
-Created a new settings dialog box with combos.
-Created a new panel for assignment detail.
-Created a new panel for details about group members.
-Logs folder location changed to %temp% folder.
-New icon.
-New title bar with Maximize/Restore function.
-Re-design window appearance
-Removed the undock window function.
-Show the result status of the assignment.
-New information tabs for assignments, groups, devices and users.
+ver. 3.1 – June 18, 2024
+Implementation of new tabs in Device Information.
+Removed status tabs from selected assignments.
+Search limited to 100 results for best performance.
 Added Functions:
-- Autopilot devices.
-- Bring assignments target All Devices and All Users.
-- Clear button in membership search.
-- Filter assignments resulting information.
-- Information about Logged on user.
-- Information about Primary User for devices.
-- Information from Group, devices and users.
-- Member of from devices and users.
-- Merged all types of devices configurations in a single assignment item.
-- Status information from assignments (which are support).
-- Search assignments in UpLevel groups.
-- Search and retrieve information for devices and users.
-- Search function for members.
-- Search group by ID.
+- Retrieve Conditional Access (CA) assignments based on roles.
+- Windows Updates including Rings, Quality, Features and Drivers.
 BUG Fix
-- Created a clear button in the member search box.
-- Fixed catalog settings missing assignments.
-- Fixed columns in export csv file.
-- Fixed group search limit.
-- Fixed groups names on logs.
-- Fixed missing status bar messages.
-- Fixed tip color from Dark theme
-- Hand cursor for all buttons.
-- Search limit results for groups.
+- CA excluded by group was not showing to user member.
+- CA for all users was not working.
+- Fixed error when multiple clicks in assignments list.
+- Fixed error when user have assignments in uplevel groups.
+- Fixed display name missing from policy sets in logs.
+- Fixed filters function to filter without need to click clear button first.
+- Fixed log information during the search.
+- Fixed text information when selecting a user from search.
 
 ### **Requirements**
 
@@ -75,13 +56,15 @@ GroupMember.Read.All\
 Policy.Read.All\
 User.Read.All
 
-
 ### **Be Safe!**
 
-![GIA3 0-Screen](https://github.com/sibranda/GetIntuneAssignments/assets/62342144/2dcc3ac6-75f5-4e17-8f85-a1ccf044c9f6)
+![GIA3 1-Screen](https://github.com/sibranda/GetIntuneAssignments/assets/62342144/fdb9d9d5-8fe0-4048-a3c4-c8c9b25ad1b3)
+
+You can test all other themes by selecting from GIA settings:
+
+![GIA3 1-ThemeScreen](https://github.com/sibranda/GetIntuneAssignments/assets/62342144/1925b47c-ae46-49d8-a7b1-b8c09e3ef889)
 
 
-
-Download the Latest Release 3.0 from April, 2024
-https://github.com/sibranda/GetIntuneAssignments/releases/tag/v3.0
+Download the Latest Release 3.1 from June, 2024
+https://github.com/sibranda/GetIntuneAssignments/releases/tag/v3.1
 
